@@ -2,12 +2,12 @@
 Project demonstrating sales data automation and visualization in Excel using Power Query.
 Below are the steps that i done for this project -
 
-Step 1: Data Loading
+****Step 1**: Data Loading**
 -Open Excel and go to the Data tab.
 -Choose Get Data > From File > From CSV and select your file (car-sales-extended-missing-data.csv).
 -This will open the file in Power Query Editor.
 
-Step 2: Data Cleaning in Power Query
+**Step 2: Data Cleaning in Power Query**
 In Power Query, apply these cleaning steps to prepare the data:
 Remove Empty Rows and Columns:
 
@@ -31,7 +31,7 @@ Filter Irrelevant Data:
 Exclude any data points that are outliers or irrelevant to your analysis. Use Filter options to remove values outside a specific range.
 
 
-Step 3: Data Transformation
+**Step 3: Data Transformation**
 Now, you can further transform the data to facilitate meaningful analysis:
 
 Group By:
@@ -43,11 +43,11 @@ Calculate Sales Metrics:
 Add calculated columns, like calculating the difference in sales month-over-month or year-over-year.
 
 
-Step 4: Load Data to Excel
+**Step 4: Load Data to Excel**
 When you’re ready, click Close & Load to import the cleaned data back into Excel.
 
 
-Step 5: Data Visualization in Excel
+**Step 5: Data Visualization in Excel**
 Use Pivot Tables and Pivot Charts to create interactive dashboards.
 Add slicers for easy filtering by categories like car model, sales region, or sales representative.
 Create visualizations, such as:
