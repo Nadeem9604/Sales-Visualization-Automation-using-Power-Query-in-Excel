@@ -3,9 +3,11 @@ Project demonstrating sales data automation and visualization in Excel using Pow
 Below are the steps that i done for this project -
 
 ****Step 1**: Data Loading**
--Open Excel and go to the Data tab.
--Choose Get Data > From File > From CSV and select your file (car-sales-extended-missing-data.csv).
--This will open the file in Power Query Editor.
+Open Excel and go to the Data tab.
+
+Choose Get Data > From File > From CSV and select your file (car-sales-extended-missing-data.csv).
+
+This will open the file in Power Query Editor.
 
 **Step 2: Data Cleaning in Power Query**
 In Power Query, apply these cleaning steps to prepare the data:
